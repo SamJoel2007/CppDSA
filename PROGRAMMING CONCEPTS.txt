@@ -1,0 +1,97 @@
+PROGRAMMING CONCEPTS
+
+object is the real time entry passing to the class is called object.
+
+class is a template of the subject is collection of attributes
+
+
+
+A constructor is a special method, the class name and the constructor name should be the same.
+
+The constructor method is automatically executed when the object is created. The constructor is mainly used for initialization.
+
+INHERITANCE:
+
+The process of extracting properties from one class to another class is called inheritance
+
+1. Single
+2. Multiple
+3. Multilevel
+4. Hierarchical
+5. Tree
+
+POLYMORPHISM:
+
+The polymorphism can be divided into two types
+
+1. Method overloading
+2. Method overriding
+
+1. Run time polymorphism
+2. Compile time polymorphism
+
+It contains the same method but different parameters
+
+The previous feature can be override by the current.
+
+
+ENCAPSULATION
+
+To wrap the data into a single unit to prevent unauthorized access.
+
+ACCESS MODIFIERS
+
+Use to provide security for the program
+
+1. Public
+2. Private
+3. Protected
+
+ABSTRACTION:
+
+To hiding incrementation data and essential parts
+
+
+
+stl IS one of the feature in predefined libraries and classes
+
+The main purpose of using the STL is to organize the data, to search the data
+
+
+
+
+VECTOR
+
+Vector is a dynamic array whenever adding elements, the vector size can be increased
+
+VECTOR & VECTOR
+
+
+front METHOD
+
+a front method is used to get the last method
+
+at METHOD
+
+at method is used to access elements using the index numbers
+
+CLEAR() method
+
+clear method is used to remove all the elements from the vector
+
+
+
+
+size();
+clear();
+front();
+back();
+isEmpty();
+
+
+--------------------------------------------------------------------------------------------------
+
+
+STACK
+
+Stack is a linear data structure and follows last in first out (LIFO)
